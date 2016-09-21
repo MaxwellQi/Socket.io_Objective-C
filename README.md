@@ -3,7 +3,7 @@ socket.io-client-swift realization of Objective-C
 
 ## 说明
 
-该项目是集成 Socket.io官方库[socket.io-client-swift](#https://github.com/socketio/socket.io-client-swift)的一个Object-C的实现。主要用于总结往我的OC项目中集成socket.io-client-swift的步骤以及遇到的问题。
+该项目是集成 Socket.io官方库[socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)的一个Object-C的实现。主要用于总结往我的OC项目中集成socket.io-client-swift的步骤以及遇到的问题。
 
 ## Xcode版本
 
@@ -67,8 +67,8 @@ end
 
 ## 关于socket.io
 
-关于socket.io的其它具体方法，可以参考[socket.io-client-swift](#https://github.com/socketio/socket.io-client-swift)
+关于socket.io的其它具体方法，可以参考[socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)
 
 ## MaxwellQi
 
-[More about me ...](#https://maxwellqi.github.io/about-me/)
+[More about me ...](https://maxwellqi.github.io/about-me/)
