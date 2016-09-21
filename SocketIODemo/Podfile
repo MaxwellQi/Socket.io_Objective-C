@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'SocketIODemo' do
+    pod 'Socket.IO-Client-Swift'
+end
